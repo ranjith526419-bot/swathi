@@ -1,0 +1,6 @@
+{
+  "name": "Smart Industrial Air & Heat Risk Monitoring System",
+  "description": "Goldsmith & jewelry manufacturing workshop environmental safety monitoring system with live furnace/torch sensor simulation, AI fume & heat risk prediction, automated alerts, and smart suction fan control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
